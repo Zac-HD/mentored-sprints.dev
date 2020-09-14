@@ -5,9 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     title: Mentored Sprints
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    content: Making contribution sprints frliendlier and more accessible.
     actions:
       - label: Learn More
         url: /features
