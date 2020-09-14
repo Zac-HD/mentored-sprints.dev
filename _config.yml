@@ -23,7 +23,7 @@ header:
       primary: true
 footer:
   logo_img: images/super-mint.png
-  tagline: SaaS theme by Stackbit
+  tagline: Mentored sprints
   has_nav: true
   nav_title: Company
   nav_links:
