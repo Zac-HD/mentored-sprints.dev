@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: purple
 header:
-  title: Azimuth
+  title: Mentored Sprints
   logo_img: images/blue-pink-text.png
   has_nav: true
   nav_links:
